@@ -5,8 +5,7 @@ using namespace std;
 
 int main()
 {
-    TerranUnit *m = new Marine();
-    cout << m->GetHP() << endl;
+    cout << "Hello World" << endl;
 
     
     
